@@ -1,7 +1,6 @@
-# Hotwaters
+# Hot Waters
 
-Hotwaters is a synchronised video installation that was exhibited in the [Slowboil Exhibition](https://www.slowboil.online/about) at [Artspace Aotearoa](https://artspace-aotearoa.nz/) in 2021. It consists of two 50 minute films, synchronised across two screens using [frame](https://github.com/forensic-architecture/frame), an open source scheduling software for video playback in exhibitions.
-
+_Hot Waters_ is a synchronised video installation that was exhibited in the [Slowboil Exhibition](https://www.slowboil.online/about) at [Artspace Aotearoa](https://artspace-aotearoa.nz/) in 2021. It consists of two 50 minute films, synchronised across two screens using [frame](https://github.com/forensic-architecture/frame), an open source scheduling software for video playback in exhibitions.
 
 ![Hotwaters screenshot](./IN/hotwaters_screenshot.jpg)
 
@@ -11,7 +10,7 @@ The video projected onto the oval (2.4m x 1.2m and tilted at 12deg) is rendered 
 The original data representing when ships carrying phosphate from Western Sahara to New Zealand ports is available in [this Google Sheet](https://docs.google.com/spreadsheets/d/1WlphTdwnsCJfLnSXbrexUKRQ2JOt_kG9Huy1WXThKzU/edit#gid=0). (A transformed version of this also exists JSON files in the 'assets' folder that can be downloaded in [Blender setup](#blender-setup)).
 
 ## Getting the output files
-If you're just interested in the final two video renders and other files (such as the YAML files to synchronise frame), you can retrieve those by downloading the 'OUT' folder. Inside a Bash shell:
+If you're just interested in the final two video renders and other files (such as the accompanying infopanel and the YAML files to synchronise the two screens in frame), you can retrieve those by downloading the 'OUT' folder. Inside a Bash shell:
 
 ```bash
 bash download_OUT.sh
