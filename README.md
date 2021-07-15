@@ -2,7 +2,7 @@
 
 _Hot Waters_ is a synchronised video installation that was exhibited in the [Slowboil Exhibition](https://www.slowboil.online/about) at [Artspace Aotearoa](https://artspace-aotearoa.nz/) in 2021. It consists of two 47 minute films, synchronised across two screens using [frame](https://github.com/forensic-architecture/frame), an open source scheduling software for video playback in exhibitions.
 
-![Hotwaters screenshot](./IN/hotwaters_screenshot.jpg)
+![Hotwaters GIF](./IN/hotwaters.gif)
 
 _Hot Waters_ represents the volume of phosphate shipped to New Zealand since 2012 by [Ballance Agri-Nutrients](https://ballance.co.nz/) and [Ravensdown](https://www.ravensdown.co.nz/products/fertiliser), two fertiliser giants who use it in their product. This phosphate is mined extractively in Western Sahara by the occupying Moroccan government, wreaking ecological destruction and forcing the indiginous Sahrawi people intoatrocious labour and living conditions.
 
